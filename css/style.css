@@ -12,7 +12,10 @@
   .graf {
     margin-top: 0;
     margin-bottom: 0;
-    transform: translateX(50px);
+  }
+
+  .graf svg {
+    transform: translate(100px, 50px);
   }
 }
 
