@@ -29,4 +29,12 @@ Některé z grafů, na kterých Rosling v knize svá tvrzení předvádí, přev
 ### Podíl lidí žijích v extrémní chudobě ([zdroj](https://ourworldindata.org/extreme-poverty))
 <div id="graf6" class="graf"></div>
 
+Ve Faktomluvě s podtitulem _Deset důvodů, proč se mýlíme v pohledu na svět_ rozebírá Rosling důvody, proč jsou lidé ve svém hodnocení současnosti přehnaně pesimističtí. Jmenuje například instinkt propasti, kvůli kterému mají tendenci dělit svět na dvě části, třeba bohatý a chudý, nebo instinkt strachu, který způsobuje přehnané zveličování ojedinělých negativních jevů, například leteckých nehod, na úkor těch pozitivních.
+
+Dobré zprávy hledá v datech ze všech možných oblastí - mizení legálního otroctví, pokles počtu úmrtí ve válkách i zvyšující se počet publikovaných vědeckých článků. „Většina lidí má o světě zcela mylné představy. A nejen ničivě mylné, ale i systematicky mylné,“ píše autor v úvodu knihy. „Chtěl bych změnit způsob, jakým lidé o světě uvažují, uklidnit jejich iracionální obavy a přesměrovat jejich energii ke konstruktivním aktivitám.“
+
+Roslingův optimistický náhled ovšem nepřijímá každý. Biolog z americké Stanfordovy univerzity Paul Ehrlich [kritizuje](http://mahb.stanford.edu/blog/a-confused-statistician) například to, že autor Faktomluvy hledí na celek, ale užse nezabývá lokálními výkyvy. Týká se to například tvrzení o snižování růstu populace, které platí celosvětově, ale rozhodně ne už v zemích jako Nigérie nebo Jemen, kde jsou rodiny nejméně pětičlenné. 
+
+Rosling také podle něj ve své pozitivitě opomíjí klíčové problémy, které mohou optimistické statistiky dramaticky zvrátit, mimo jiné globální změna klimatu. „Roslingova uklidňující ujištění jsou podobná, jako když říká lékař pacientovi s rakovinou: žádný strach, léčit se nemusíte,“ píše Ehrlich. „Je tu přece spousta dobrých zpráv - netrápí vás zubní kazy, vidíte skvěle a podle všeho nemáte rýmu.“
+
 _Roslingova kniha Faktomluva vyšla letos [v českém překladu](https://www.melvil.cz/kniha-faktomluva/)._

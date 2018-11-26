@@ -53,6 +53,12 @@ cursor: pointer;
 transition: opacity .3s;
 }
 
+.introtext, .valuedisplay {
+  font-family: sans-serif;
+  font-size: small;
+  font-style: italic;
+}
+
 .disabled {
 opacity: 0.4;
 cursor: default;
