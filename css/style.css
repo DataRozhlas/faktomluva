@@ -10,7 +10,9 @@
 
 @media only screen and (max-width: 600px) {
   .graf {
-    margin: 0 auto;
+    margin-top: 0;
+    margin-bottom: 0;
+    transform: translateX(50px);
   }
 }
 
