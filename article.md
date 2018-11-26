@@ -1,6 +1,6 @@
-title: "Data z mobilů:<br>Praha se denně nafoukne o polovinu, v centru jsou návštěvníci v převaze"
-perex: "Skoro 140 tisíc lidí přijede do Prahy každý den za prací. Míří hlavně do kancelářských budov a do centra města. S nimi pak dorazí i přes půl milionu návštěvníků. Ukázala to analýza dat o pohybu mobilních telefonů, kterou si nyní město nechává zpracovat."
-published: "21. dubna 2018"
+title: "Svět je na tom líp, než si myslíte. Zkuste si jak"
+perex: "Faktomluva atd."
+published: "26. listopadu 2018"
 coverimg: https://interaktivni.rozhlas.cz/brexit/media/cover.jpg
 coverimg_note: "Foto <a href='#'>ČTK</a>"
 styles: []
@@ -8,7 +8,7 @@ libraries: [] #jquery, d3, highcharts, datatables
 options: [noheader, nopic] #wide, noheader (, nopic)
 ---
 <!--"https://data.irozhlas.cz/grafokres/dist/grafokres.js"-->
-<script src="../grafokres/dist/grafokres.js?1"></script>
+<script src="../grafokres/dist/grafokres.js?2"></script>
 Délka dožití
 <div id="graf1" class="graf"></div>
 

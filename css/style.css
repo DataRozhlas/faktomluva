@@ -6,12 +6,7 @@
   
 .graf svg {
   overflow: visible;
-}
-
-@media only screen and (max-width: 600px) {
-  .graf svg {
-    transform: translate(50px, 50px);
-  }
+  transform: translate(50px, 50px);
 }
 
 .axis {
