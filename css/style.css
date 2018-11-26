@@ -1,15 +1,21 @@
+.graf {
+  margin-bottom:10px;
+  margin-top:-40px;
+  max-width: 600px;
+  }
+  
 .graf svg {
   overflow: visible;
 }
 
-.axis {
-opacity: .5;
+@media only screen and (max-width: 600px) {
+  .graf {
+    margin: 0 auto;
+  }
 }
 
-.graf {
-margin-bottom:10px;
-margin-top:-40px;
-max-width: 600px;
+.axis {
+opacity: .5;
 }
 
 .line {

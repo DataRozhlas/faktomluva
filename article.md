@@ -4,10 +4,11 @@ published: "21. dubna 2018"
 coverimg: https://interaktivni.rozhlas.cz/brexit/media/cover.jpg
 coverimg_note: "Foto <a href='#'>ČTK</a>"
 styles: []
-libraries: ["https://data.irozhlas.cz/grafokres/dist/grafokres.js"] #jquery, d3, highcharts, datatables
+libraries: [] #jquery, d3, highcharts, datatables
 options: [noheader, nopic] #wide, noheader (, nopic)
 ---
-
+<!--"https://data.irozhlas.cz/grafokres/dist/grafokres.js"-->
+<script src="../grafokres/dist/grafokres.js"></script>
 Délka dožití
 <div id="graf1" class="graf"></div>
 
