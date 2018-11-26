@@ -1,5 +1,4 @@
 const stamp = Date.now() + Math.floor(Math.random() * 10000);
-alert(window.innerWidth)
 grafokres({
 	elem: "#graf1",
 	data: data.doziti,

@@ -8,7 +8,7 @@ libraries: [] #jquery, d3, highcharts, datatables
 options: [noheader, nopic] #wide, noheader (, nopic)
 ---
 <!--"https://data.irozhlas.cz/grafokres/dist/grafokres.js"-->
-<script src="../grafokres/dist/grafokres.js?0"></script>
+<script src="../grafokres/dist/grafokres.js?1"></script>
 Délka dožití
 <div id="graf1" class="graf"></div>
 
