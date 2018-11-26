@@ -25,21 +25,5 @@ const data = {
         {"year": 2020,	"value": 73.34}
     ],
 
-    test: [
-        {"year": 2001,    "value": 31.4},
-        {"year": 2002,    "value": 32.6},
-        {"year": 2003,    "value": 34.5},
-        {"year": 2004,    "value": 35.5},
-        {"year": 2005,    "value": 35.6},
-        {"year": 2006,    "value": 35.3},
-        {"year": 2007,    "value": 35.2},
-        {"year": 2008,    "value": 39.3},
-        {"year": 2009,    "value": 52.3},
-        {"year": 2010,    "value": 60.9},
-        {"year": 2011,    "value": 65.9},
-        {"year": 2012,    "value": 70.4},
-        {"year": 2013,    "value": 72.6},
-        {"year": 2014,    "value": 74.4},
-        {"year": 2015,    "value": 73.6},
-    ]
+    demokracie: [{"year":1820,"value":0.92},{"year":1830,"value":1.16},{"year":1840,"value":1.46},{"year":1850,"value":4.93},{"year":1860,"value":2.95},{"year":1870,"value":3.88},{"year":1880,"value":9.25},{"year":1890,"value":10.08},{"year":1900,"value":11.97},{"year":1910,"value":13.02},{"year":1920,"value":19.62},{"year":1930,"value":16.9},{"year":1940,"value":9.37},{"year":1950,"value":31.41},{"year":1960,"value":38.52},{"year":1970,"value":33.35},{"year":1980,"value":35.21},{"year":1990,"value":43.33},{"year":2000,"value":56.08},{"year":2010,"value":54.26}]
 };
