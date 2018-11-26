@@ -1,11 +1,11 @@
 title: "Svět je na tom líp, než si myslíte. Zkuste trefit jeho vývoj"
-perex: "V pohledu na svět se mýlíme a věci jsou lepší, než vypadají. To aspoň tvrdí švédský statistik Hans Rosling ve své knize Faktomluva. Dokazuje to pomocí grafů, které ukazují zlepšení v mnoha oblastech života. V naši interaktivní aplikaci do nich můžete nakreslit své odhady vývoje a porovnat je se skutečností."
+perex: "V pohledu na svět se mýlíme a věci jsou lepší, než vypadají. To aspoň tvrdí švédský statistik Hans Rosling ve své knize Faktomluva. Dokazuje to pomocí grafů, které ukazují zlepšení v mnoha oblastech života. V interaktivní aplikaci iROZHLAS.cz do nich můžete nakreslit své odhady vývoje a porovnat je se skutečností."
 published: "26. listopadu 2018"
-coverimg: https://interaktivni.rozhlas.cz/brexit/media/cover.jpg
-coverimg_note: "Foto <a href='#'>ČTK</a>"
+coverimg: https://www.irozhlas.cz/sites/default/files/styles/zpravy_snowfall/public/uploader/road-sign-63983_1920_181126-193132_zlo.jpg?itok=0i2AZiRW
+coverimg_note: "Ilustrační foto: geralt/Pixabay (CC0)"
 styles: []
 libraries: ["https://data.irozhlas.cz/grafokres/dist/grafokres.js"] #jquery, d3, highcharts, datatables
-options: [noheader, nopic] #wide, noheader (, nopic)
+options: [noheader] #wide, noheader (, nopic)
 ---
 Věděc a popularizátor Hans Rosling, který loni zemřel, se zabýval daty a statistikami o světě a jejich výkladem. O tom, jak lidé podceňují pozitivní vývoj ukazatelů od chudoby po úmrtnost na nebezpečné nemoci, přednášel po celém světě, mimo jiné [na konferencích TED](https://www.ted.com/talks/hans_rosling_shows_the_best_stats_you_ve_ever_seen?language=cs). Tématu se věnuje i ve své posmrtně vydané knize Faktomluva (Factfulness).
 
@@ -33,7 +33,7 @@ Ve Faktomluvě s podtitulem _Deset důvodů, proč se mýlíme v pohledu na svě
 
 Dobré zprávy hledá v datech ze všech možných oblastí - mizení legálního otroctví, pokles počtu úmrtí ve válkách i zvyšující se počet publikovaných vědeckých článků. „Většina lidí má o světě zcela mylné představy. A nejen ničivě mylné, ale i systematicky mylné,“ píše autor v úvodu knihy. „Chtěl bych změnit způsob, jakým lidé o světě uvažují, uklidnit jejich iracionální obavy a přesměrovat jejich energii ke konstruktivním aktivitám.“
 
-Roslingův optimistický náhled ovšem nepřijímá každý. Biolog z americké Stanfordovy univerzity Paul Ehrlich [kritizuje](http://mahb.stanford.edu/blog/a-confused-statistician) například to, že autor Faktomluvy hledí na celek, ale užse nezabývá lokálními výkyvy. Týká se to například tvrzení o snižování růstu populace, které platí celosvětově, ale rozhodně ne už v zemích jako Nigérie nebo Jemen, kde jsou rodiny nejméně pětičlenné. 
+Roslingův optimistický náhled ovšem nepřijímá každý. Biolog z americké Stanfordovy univerzity Paul Ehrlich [kritizuje](http://mahb.stanford.edu/blog/a-confused-statistician) například to, že autor Faktomluvy hledí na celek, ale už se nezabývá lokálními výkyvy. Týká se to například tvrzení o snižování růstu populace, které platí celosvětově, ale rozhodně ne už v zemích jako Nigérie nebo Jemen, kde jsou rodiny nejméně pětičlenné. 
 
 Rosling také podle něj ve své pozitivitě opomíjí klíčové problémy, které mohou optimistické statistiky dramaticky zvrátit, mimo jiné globální změna klimatu. „Roslingova uklidňující ujištění jsou podobná, jako když říká lékař pacientovi s rakovinou: žádný strach, léčit se nemusíte,“ píše Ehrlich. „Je tu přece spousta dobrých zpráv - netrápí vás zubní kazy, vidíte skvěle a podle všeho nemáte rýmu.“
 

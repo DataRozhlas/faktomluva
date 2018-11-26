@@ -53,17 +53,7 @@ grafokres({
 	btnFn: postResult,
 	yFormat: "x + ' %'"
 });
-/*
 
-grafokres({
-	elem: "#graf2",
-	data: data.test,
-	cutoff: 2008,
-	interval: "year",
-	btnFn: postResult,
-	yFormat: "x + ' %'"
-});
-*/
 function postResult(btn) {
 	const xhr = new XMLHttpRequest();
 	xhr.addEventListener("load", response);
