@@ -1,6 +1,6 @@
 const stamp = Date.now() + Math.floor(Math.random() * 10000);
 
-grafokres({
+grafokres.grafokres({
 	elem: "#graf1",
 	data: data.doziti,
 	cutoff: 1940,
@@ -8,7 +8,7 @@ grafokres({
 	btnFn: postResult,
 });
 
-grafokres({
+grafokres.grafokres({
 	elem: "#graf2",
 	data: data.demokracie,
 	cutoff: 1940,
@@ -17,7 +17,7 @@ grafokres({
 	yFormat: "x + ' %'"
 });
 
-grafokres({
+grafokres.grafokres({
 	elem: "#graf3",
 	data: data.katastrofy,
 	cutoff: 1950,
@@ -27,7 +27,7 @@ grafokres({
 	yMax: 1000
 });
 
-grafokres({
+grafokres.grafokres({
 	elem: "#graf4",
 	data: data.deti,
 	cutoff: 1940,
@@ -36,7 +36,7 @@ grafokres({
 	yFormat: "x + ' %'"
 });
 
-grafokres({
+grafokres.grafokres({
 	elem: "#graf5",
 	data: data.gramotnost,
 	cutoff: 1960,
@@ -45,7 +45,7 @@ grafokres({
 	yFormat: "x + ' %'"
 });
 
-grafokres({
+grafokres.grafokres({
 	elem: "#graf6",
 	data: data.chudoba,
 	cutoff: 1950,
